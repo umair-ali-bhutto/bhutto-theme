@@ -1,0 +1,21 @@
+{
+  "name": "bhutto-theme",
+  "displayName": "Bhutto-Theme",
+  "description": "Simple Theme For My VsCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bhutto Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Bhutto Theme-color-theme.json"
+      }
+    ]
+  }
+}
